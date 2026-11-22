@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://noria901.github.io/kurino-picks/sitemap.xml
